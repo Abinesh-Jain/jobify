@@ -1,16 +1,32 @@
-# jobify
+# Jobify
 
-A new Flutter project.
+Jobify is a modern job listing application designed to help users find and manage job opportunities efficiently. It provides a seamless experience for job seekers and recruiters alike.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Browse and search for job listings.
+- Create, Read, Update and Delete Jobs
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/your-username/jobify.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd jobify
+    ```
+3. Install dependencies:
+    ```bash
+     flutter pub get
+     ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Configure Firebase Authentication:
+    - Enable Email/Password and Google sign-in methods in your Firebase project.
+    - Download the `google-services.json` (for Android) and `GoogleService-Info.plist` (for iOS) files and place them in the respective directories.
+
+5. Run the app:
+    ```bash
+    flutter run
+    ```
