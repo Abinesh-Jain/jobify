@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "539298664803",
+    "project_id": "jobify-efd92",
+    "storage_bucket": "jobify-efd92.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539298664803:android:64c65e766b4691a69a4356",
+        "android_client_info": {
+          "package_name": "com.example.jobify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539298664803-24568hoj5it9fu7v5uqj924c8bciiluh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-_1_HMGzobiZDHIYmYBzTKWSK1wd5160"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539298664803-24568hoj5it9fu7v5uqj924c8bciiluh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "539298664803-93bc3pr6nnl8mfk85v27lfcvcbrjpl44.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobify"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
